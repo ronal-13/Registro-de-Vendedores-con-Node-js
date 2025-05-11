@@ -13,8 +13,8 @@ Este es un sistema CRUD (Create, Read, Update, Delete) para la gestión de vende
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/CarlTheBoss/NODEDEMO.git
-   cd NODEDEMO
+   git clone 
+   cd
    ```
 
 2. Instala las dependencias:
