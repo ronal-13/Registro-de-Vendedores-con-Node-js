@@ -1,0 +1,29 @@
+{
+  "name": "nodedemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node crud-vendedores/app.js",
+    "start": "node crud-vendedores/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlTheBoss/NODEDEMO.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CarlTheBoss/NODEDEMO/issues"
+  },
+  "homepage": "https://github.com/CarlTheBoss/NODEDEMO#readme",
+  "description": ""
+}
